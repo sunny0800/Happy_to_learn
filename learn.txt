@@ -1,0 +1,3 @@
+I am learning Git
+
+I am learning how to do push in Git Hub
